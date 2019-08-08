@@ -1,0 +1,10 @@
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.1\JobCandidate.deps.json
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.1\JobCandidate.runtimeconfig.json
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.1\JobCandidate.runtimeconfig.dev.json
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.1\JobCandidate.dll
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.1\JobCandidate.pdb
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.1\JobCandidate.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.1\JobCandidate.AssemblyInfoInputs.cache
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.1\JobCandidate.AssemblyInfo.cs
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.1\JobCandidate.dll
+C:\Users\Dino\source\repos\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.1\JobCandidate.pdb
