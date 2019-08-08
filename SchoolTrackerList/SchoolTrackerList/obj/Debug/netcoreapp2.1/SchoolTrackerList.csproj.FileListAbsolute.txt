@@ -1,0 +1,11 @@
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\bin\Debug\netcoreapp2.1\SchoolTrackerList.deps.json
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\bin\Debug\netcoreapp2.1\SchoolTrackerList.runtimeconfig.json
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\bin\Debug\netcoreapp2.1\SchoolTrackerList.runtimeconfig.dev.json
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\bin\Debug\netcoreapp2.1\SchoolTrackerList.dll
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\bin\Debug\netcoreapp2.1\SchoolTrackerList.pdb
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.csprojAssemblyReference.cache
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.AssemblyInfoInputs.cache
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.AssemblyInfo.cs
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.dll
+C:\Users\Dino\source\repos\SchoolTrackerList\SchoolTrackerList\obj\Debug\netcoreapp2.1\SchoolTrackerList.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dino\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.deps.json
+C:\Users\Dino\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.runtimeconfig.json
+C:\Users\Dino\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.runtimeconfig.dev.json
+C:\Users\Dino\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.dll
+C:\Users\Dino\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.pdb
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.AssemblyInfoInputs.cache
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.AssemblyInfo.cs
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.dll
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.pdb
+C:\Users\Dino\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.csprojAssemblyReference.cache
