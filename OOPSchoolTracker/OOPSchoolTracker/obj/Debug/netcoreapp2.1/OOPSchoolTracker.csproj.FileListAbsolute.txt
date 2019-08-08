@@ -1,0 +1,11 @@
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\bin\Debug\netcoreapp2.1\OOPSchoolTracker.deps.json
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\bin\Debug\netcoreapp2.1\OOPSchoolTracker.runtimeconfig.json
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\bin\Debug\netcoreapp2.1\OOPSchoolTracker.runtimeconfig.dev.json
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\bin\Debug\netcoreapp2.1\OOPSchoolTracker.dll
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\bin\Debug\netcoreapp2.1\OOPSchoolTracker.pdb
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.AssemblyInfoInputs.cache
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.AssemblyInfo.cs
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.dll
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.pdb
+C:\Users\Dino\source\repos\OOPSchoolTracker\OOPSchoolTracker\obj\Debug\netcoreapp2.1\OOPSchoolTracker.csprojAssemblyReference.cache
